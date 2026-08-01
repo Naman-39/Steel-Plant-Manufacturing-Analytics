@@ -45,15 +45,15 @@ The dataset consists of four tables:
 
 ## Workflow
 
-Data Collection
-↓
-SQL Data Analysis
-↓
-Python Data Processing & KPI Engineering
-↓
-Power BI Dashboard Development
-↓
-Business Insights
+Data Collection  
+↓    
+SQL Data Analysis  
+↓  
+Python Data Processing & KPI Engineering  
+↓  
+Power BI Dashboard Development  
+↓  
+Business Insights  
 
 ---
 
