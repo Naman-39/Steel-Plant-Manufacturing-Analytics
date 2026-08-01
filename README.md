@@ -107,4 +107,4 @@ LICENSE
 ![Executive Dashboard](images/Steel_page_1.PNG)
 
 ### Operational Analytics Dashboard
-![Operations Dashboard](images/Steel_page_2.PNG)
+![Operations Dashboard](images/steel_page_2.PNG)
